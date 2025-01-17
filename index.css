@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .bookmark {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .bookmark button {
+    margin-left: 10px;
+  }
